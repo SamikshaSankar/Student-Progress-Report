@@ -1,4 +1,4 @@
-## Local Setup Instructions 💻
+## Student Progress Report 💻
 
 ### Follow these steps to setup project locally:
 ```
